@@ -1,0 +1,7 @@
+.DS_Store
+data/calcularis_small_events.csv
+data/calcularis_small_subtasks.csv
+data/calcularis_small_users.csv
+data/full_calcularis_events.csv
+data/full_calcularis_subtasks.csv
+data/full_calcularis_users.csv
